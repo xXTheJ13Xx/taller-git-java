@@ -26,8 +26,8 @@ public class Sistema {
 public class LoginSimple {
 
     // Credenciales simuladas (hardcoded)
-    private static final String USUARIO_CORRECTO = "admin";
-    private static final String PASSWORD_CORRECTO = "1234";
+    private static final String USUARIO_CORRECTO = "David Rodrigo";
+    private static final String PASSWORD_CORRECTO = "CONEJO1234";
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
